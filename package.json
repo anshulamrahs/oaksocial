@@ -1,0 +1,24 @@
+{
+  "name": "oaksocial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anshulamrahs/oaksocial.git"
+  },
+  "author": "Anshul Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anshulamrahs/oaksocial/issues"
+  },
+  "homepage": "https://github.com/anshulamrahs/oaksocial#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
