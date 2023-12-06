@@ -1,12 +1,16 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
+import '../index.css';
 
 
 import React from 'react'
+import Hero from "./components/Hero";
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <Hero/>
+    </div>
   )
 }
 
