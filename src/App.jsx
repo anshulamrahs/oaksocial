@@ -5,11 +5,13 @@ import '../index.css';
 
 import React from 'react'
 import Hero from "./components/Hero";
+import Body from "./components/Body";
 
 const App = () => {
   return (
     <div>
       <Hero/>
+      <Body/>
     </div>
   )
 }
