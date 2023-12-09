@@ -4,7 +4,7 @@ import DOWN from '../assets/downwhite.svg'
 
 const Hero = () => {
   return (
-    <div className='w-full h-full flex justify-between relative'>
+    <div className=' h-full flex justify-between relative'>
         <img className='w-full h-full object-contain' src={OMID} alt='bg'/>
         <div className="top-0 left-0 fixed">
             <ul className='flex  '>

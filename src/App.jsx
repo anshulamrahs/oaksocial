@@ -6,12 +6,14 @@ import '../index.css';
 import React from 'react'
 import Hero from "./components/Hero";
 import Body from "./components/Body";
+import Work from "./components/Work";
 
 const App = () => {
   return (
     <div>
       <Hero/>
       <Body/>
+      <Work/>
     </div>
   )
 }
